@@ -17,3 +17,8 @@ pool.on('error', (err) => {
 });
 
 module.exports = pool;
+
+
+unxpected test error and cookie handling;
+
+
