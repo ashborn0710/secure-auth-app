@@ -1,3 +1,5 @@
+This is a Secure-Auth app developed by me : saurabh k which consist of frontend, backend, db and Authentication to secure the login and signuped email id's and data in the db.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
